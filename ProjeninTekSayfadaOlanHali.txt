@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <link rel="stylesheet" href="all.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com%22%3E">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,300;0,400;1,400;1,500&display=swap" rel="stylesheet">
+    <title>New Porfolio Web Site</title>
+</head>
+<body>
+    <header>
+        <div class="navbar">
+          <div class="logo">
+            <h2><a href="#">Harun Can Akkurt</a></h2>
+          </div>
+          <ul class="nav_links">
+            <li><a href="#anasayfa">Anasayfa</a></li>
+            <li><a href="#yazilimlar">Yazılımlar</a></li>
+            <li><a href="#sertifikalarim">Sertifikalarım</a></li>
+            <li><a href="#basarilarim">Başarılarım</a></li>
+            <li><a href="#hakkimda">Hakkımda</a></li>
+            <li><a href="#iletisim">İletişim</a></li>
+          </ul>
+        </div>
+    </header>
+
+    <!----ANASAYFA-->
+    <section id="anasayfa">
+      
+      <div class="inner_anasayfa">
+          <div class="child_anasayfa">
+            <h1>OYUNA MI IHTIYACIN VAR?<br><span class="span_child">NE BEKLIYOSUN?</span></h1>
+            <p>Kisa Surede Etkili Tasarimlar Icin </p>
+            <button class="btn">MESAJ AT!</button>
+          </div>
+          <div class="child_anasayfa">
+            <img src="ibo1.jpg" alt="">
+          </div>
+      </div>
+    </section>
+
+    <!----YAZILIMLAR-->
+    <!--iconlarda hata aliyosun tekrar kontrol et-->
+    
+    <section id="yazilimlar">
+      <div class="section_title">
+        <h2>YAZILIMLAR</h2>
+      </div>
+      <div class="inner_yazilimlar">
+        <div class="child_yazilimlar">
+          <div class="icon">
+            <i class="fas fa-laptop"></i>
+          </div>
+          <h3>UNREAL ENGINE 5</h3>
+          <p>Unreal bla bla </p>
+        </div>
+        <div class="child_yazilimlar">
+          <div class="icon">
+            <i class="fas fa-laptop"></i>
+          </div>
+          <h3>C++</h3>
+          <p>C++ bla bla </p>
+        </div>
+        <div class="child_yazilimlar">
+          <div class="icon">
+            <i class="fas fa-laptop"></i>
+          </div>
+          <h3>BLUEPRINT</h3>
+          <p>Blueprint bla bla </p>
+        </div>
+      </div>
+    </section>
+
+
+    <!--SERTIFIKALARIM-->
+    <section id="sertifikalarim">
+      <div class="section_title">
+        <h2>SERTIFIKALARIM</h2>
+      </div>
+      <div class="inner_kurslar">
+        <div class="child_kurslar">
+          <div class="kurs_img">
+            <img src="ue5.png" alt="">
+          </div>
+          <div class="detail">
+            <p>Udemy</p>
+            <ul>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+            </ul>
+            
+          </div>
+          <h3>Unreal Engine 5</h3>
+        </div>
+        <div class="child_kurslar">
+          <div class="kurs_img">
+            <img src="ue5.png" alt="">
+          </div>
+          <div class="detail">
+            <p>Udemy</p>
+            <ul>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+            </ul>
+          </div>
+          <h3>Unreal Engine 5</h3>
+        </div>
+        <div class="child_kurslar">
+          <div class="kurs_img">
+            <img src="ue5.png" alt="">
+          </div>
+          <div class="detail">
+            <p>Udemy</p>
+            <ul>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+            </ul>
+          </div>
+          <h3>Unreal Engine 5 FPS Shooter</h3>
+        </div>
+        <div class="child_kurslar">
+          <div class="kurs_img">
+            <img src="ue5.png" alt="">
+          </div>
+          <div class="detail">
+            <p>Udemy</p>
+            <ul>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+              <li><i class="fas fa-star"></i></li>
+            </ul>            
+          </div>
+          <h3>Unreal Engine 5 Level Design</h3>
+        </div>
+      </div>
+    </section>
+  
+    <!--BASARILAR-->
+    <section id="basarilarim">
+      <div class="section_title">
+        <h2>BASARILARIM</h2>
+      </div>
+      <div class="inner_basarilar">
+        <div class="child_basarilar">
+          <img src="ue5.png" alt="">
+      </div>
+        <div class="child_basarilar2">
+          <div class="single_detail sd_1">
+            <h1>20+</h1>
+            <p>PORFOLYO UNREAL</p>
+          </div>
+          <div class="single_detail sd_2">
+            <h1>20+</h1>
+            <p>PORFOLYO BUSINESS</p>
+          </div>
+          <div class="single_detail sd_3">
+            <h1>20+</h1>
+            <p>PORFOLYO UNREAL LEVEL DESIGN</p>
+          </div>
+          <div class="single_detail sd_4">
+            <h1>20+</h1>
+            <p>PORFOLYO UNREAL FPS</p>
+          </div>
+        </div>
+      </div>
+    </section>
+       <!--HAKKIMDA-->
+       <section id="hakkimda">
+        <div class="section_title">
+          <h2>HAKKIMDA</h2>
+        </div><br>
+        <div class="ben_kimim">
+          <h3>Ben Kimim?</h3>
+          <div class="ben_img">
+            <img src="bennn.jpeg" alt="">
+          </div>
+          <p>"Merhabalar ben Harun Can Akkurt.22 yaşındayım İstanbul Topkapı Üniversitesi Yazılım Mühendisliği 4. sınıf öğrencisiyim.Unreal Engine 5 oyun motoruyla daha yeni yeni tanışmış ve elimden geldiğince uzmanlık alanım olacak olan oyun geliştirmeye yönelik projeler geliştiriyorum."</p>
+          <a class="test_highlight" href="#">Harun Can Akkurt</a><br>
+          <p>Yazilimci</p>
+        </div><br>
+        
+        <div class="inner_hakkimda">
+          <div class="child_hakkimda">
+            <h3>Hakkimdaki Objektif Gorusler
+            </h3><br>
+            <div class="hakkimda_img">
+              <img src="adnan.jpeg" alt="">
+            </div>
+            <p>"Oyun geliştirme konusundaki yetenekleri gerçekten etkileyici. Her projesinde yaratıcılığı ve teknik becerileri bir araya getirerek benzersiz deneyimler sunuyor."</p>
+            <a class="test_highlight" href="#">Mustafa Adnan Sener</a>
+            <p>Yazilimci</p>
+          </div>
+          <div class="child_hakkimda">
+            <div class="hakkimda_img">
+              <img src="hılal.jpeg" alt="">
+            </div>
+            <p>"Arkadaşlarımız arasında en yetenekli oyun geliştirici sensin. Oyunlarının detayları, grafikleri ve oynanabilirliği gerçekten büyüleyici."</p>
+            <a class="test_highlight" href="#">Hilal Cakmak</a>
+            <p>Yazilimci</p>
+          </div>
+          <div class="child_hakkimda">
+            <div class="hakkimda_img">
+              <img src="cum.jpeg" alt="">
+            </div>
+            <p>"Seninle çalışmak gerçekten keyifli, çünkü her zaman en yeni teknolojileri takip ediyor ve projelerinde kullanarak oyun dünyasına yepyeni bir soluk getiriyorsun."</p>
+            <a class="test_highlight" href="#">Oguz Cum</a>
+            <p>Yazilimci</p>
+          </div>
+          <div class="child_hakkimda">
+            <div class="hakkimda_img">
+              <img src="utku.jpeg" alt="">
+            </div>
+            <p>"Oyunlarının sadece görsel olarak değil, aynı zamanda hikaye anlatımı ve kullanıcı etkileşimi açısından da bir üst düzeyde olduğunu düşünüyorum. Gerçekten benzersiz bir bakış açısına sahipsin."</p>
+            <a class="test_highlight" href="#">Utku Erdogan</a>
+            <p>Yazilimci</p>
+          </div>
+          <div class="child_hakkimda">
+            <div class="hakkimda_img">
+              <img src="ozi.jpeg" alt="">
+            </div>
+            <p>"Oyun geliştirme konusundaki tutkun ve bağlılığın gerçekten takdire değer. Her zaman en iyisini yapma azmin ve sürekli gelişim isteğinle öne çıkıyorsun."</p>
+            <a class="test_highlight" href="#">Ozan Elis
+            </a>
+            <p>Yazilimci</p>
+          </div>
+        </div>
+       </section> 
+       <!--ILETISIM-->
+
+       <section id="iletisim">
+        <div class="section_title">
+          <h2>ILETISIME GEC</h2>
+        </div><br>
+        <div class="inner_iletisim">
+          <div class="child_iletisim">
+            <img src="ibo2.jpg" alt="">
+          </div>
+          <div class="child_iletisim">
+            <form action="#">
+              <input placeholder="Isim" type="text" name="fullname" id="">
+              <input placeholder="E-Mail" type="text" name="e-mail" id="">
+              <input placeholder="Telefon" type="text" name="tel" id="">
+              <textarea placeholder="Mesaj" name="message" id="" cols="30" rows="10"></textarea>
+              <input type="submit" value="Gonder">
+            </form>
+          </div>
+        </div>
+       </section>
+       <!--FOOTER-->
+       <footer>
+        <div class="footer-section">
+          <div class="sosyal-medya">
+            <div class="link">
+              <a href="https://www.instagram.com/lushak4/"><i  class="fa-brands fa-instagram"></i></a>
+              
+            </div>
+            <div class="link">
+              <a href="https://discord.gg/wJFupHnQ"><i class="fa-brands fa-discord"></i></a>
+            </div>
+            <div class="link">
+              <a href="https://github.com/lushakaa"><i class="fa-brands fa-github"></i></a>
+            </div>
+            <div class="link">
+              <i class="fa-laptop"></i>
+            </div>
+           
+          </div>
+          <p class="tagline">Copyright @2023 All rights reserved | Harun Can Akkurt</p>
+        </div>
+       </footer>
+</body>
+</html>
